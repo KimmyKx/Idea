@@ -1,4 +1,4 @@
-# Project #1
+# Celestial Harvest
 ## Theme
 Life Simulation Game just like The Sims but 2D Top-down style
 
